@@ -18,8 +18,11 @@
 ## 二、连接数据库 ##
 1. 安装代码编辑器 [Visual Studio Code](https://code.visualstudio.com/ "前往下载")，用以编辑代码<br/>
 ![](/logic/images/vscode.jpg)
+
 2. 从github上获取项目 [Flow-statistics](https://github.com/leslieeilsel/Flow-statistics)，将项目文件夹放置在**D:\phpStudy\WWW**目录下<br/>
 ![](/logic/images/github.jpg)
+
 3. 使用Visual Studio Code打开项目文件夹，**Flow-statistics\logic\php\database.php**，配置数据库连接，完成后保存<br/>
 ![](/logic/images/database.jpg)
+
 4. 打开浏览器（建议使用Chrome或者Firefox），运行127.0.0.1，点击项目目录即可运行
