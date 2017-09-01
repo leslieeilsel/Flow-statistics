@@ -1,6 +1,6 @@
 # Flow-statistics 系统搭建
 ## 一、搭建运行环境 ##
-1. 安装 [PHPstudy](httphttp://www.phpstudy.net/download.html "前往下载") (Apache + PHP + MySQL)
+1. 安装 [PHPstudy](http://www.phpstudy.net/download.html "前往下载") (Apache + PHP + MySQL)
 2. 安装 [vc14运行库](http://www.xdowns.com/soft/184/dll/2016/Soft_164980.html "前往下载")
 3. 安装 [ODBC Driver 11 For SQL （msodbcsql.msi）](https://www.microsoft.com/en-us/download/details.aspx?id=36434 "前往下载")
 4. 将php-7.0.12-NTS添加到系统环境变量，并在php.ini中插入如下两行：
