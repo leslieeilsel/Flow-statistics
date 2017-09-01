@@ -1,7 +1,7 @@
 # Flow-statistics 系统搭建
 ## 一、搭建运行环境 ##
 1. 安装 [PHPstudy](http://www.phpstudy.net/download.html "前往下载") (Apache + PHP + MySQL)<br />
-![](/logic/images/phpstudy.jpg)
+![](/logic/images/PHPstudy.jpg)
 
 2. 安装 [vc14运行库](http://www.xdowns.com/soft/184/dll/2016/Soft_164980.html "前往下载")<br />
 ![](/logic/images/vc14.jpg)
